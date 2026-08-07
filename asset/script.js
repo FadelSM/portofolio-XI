@@ -432,7 +432,7 @@ function initTypingEffect() {
   
   const phrases = [
     'Hi Visitor',
-    'Welcome To XI.1'
+    'Welcome To XI.1 Saintek'
   ];
   
   let currentPhraseIndex = 0;
@@ -668,7 +668,7 @@ function initThanks1Section() {
       </div>
       <h3 class="thanks-name">${person.name}</h3>
       <p class="thanks-relation">${person.relation}</p>
-      <a class="thanks-action">Thank You!</a>
+      <a class="thanks-action">XI.1 Saintek</a>
     `;
     
     thanksGrid1.appendChild(card);
